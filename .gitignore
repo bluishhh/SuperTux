@@ -1,0 +1,15 @@
+# Godot-specific ignores
+.import/
+SourceCode/android/build
+SourceCode/IMPORTS
+SourceCode/.godot
+
+# Mono-specific ignores
+.mono/
+data_*/
+
+Exports/Windows/
+Exports/Linux/
+Exports/Mac/
+Exports/HTML/
+Exports/Android/
