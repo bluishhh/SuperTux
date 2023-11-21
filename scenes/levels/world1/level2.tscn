@@ -14,7 +14,7 @@ shader_param/overlay_color = Plane( 0.5, 0.7, 1, 0.5 )
 [node name="Level" type="Node2D"]
 script = ExtResource( 1 )
 level_title = "The Journey Begins"
-level_author = "Marek Moeckel"
+level_author = "Isha"
 
 [node name="Shader" type="Node2D" parent="."]
 material = SubResource( 1 )

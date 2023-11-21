@@ -36,7 +36,7 @@ shader_param/overlay_color = Plane( 0.5, 0.5, 0.5, 0.5 )
 [node name="Level" type="Node2D"]
 script = ExtResource( 3 )
 level_title = "Via Nostalgica"
-level_author = "Bill Kendrick"
+level_author = "Isha"
 
 [node name="IceMountainsBackground" parent="." instance=ExtResource( 4 )]
 
